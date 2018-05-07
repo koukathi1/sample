@@ -1,0 +1,350 @@
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;;
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 258.473px;
+  top: 1610.255px;
+  width: 403px;
+  height: 172px;
+  z-index: 36;
+}
+
+.main_bg{
+  width: 100%;
+  height: 565px;
+  background: url('../images/shutterstock.png') no-repeat;
+  
+  background-size:cover;
+  background-size:contain;
+  border: 0px !important;
+  
+ 
+
+}
+
+
+.bg-dark{
+  background: #2d2d2d  !important;
+  border: 0px !important;
+  
+  height: 62px;
+  border: 0px;
+  
+}
+
+.nav-item {
+  padding: 0px 71px;
+}
+
+.img2 {
+  padding: 0px opx;
+  margin: 0px 0px 0px 53px;
+   
+}
+
+
+@media screen and (max-width: 768px ) {
+  #textbegin{
+  font-size:40px;
+}
+}
+
+@media screen and (max-width: 500px) {
+  #textbegin {
+  font-size:20px;
+  width: 70%;
+}
+}
+
+
+#textbegin {
+left: 16%;
+top: 35%;
+
+}
+
+
+.description > h2 {
+
+   
+    font-size: 52px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 0.98;
+    text-align: left;
+    position: absolute;
+    left: 238px;
+    top: 240.951px;
+    width: 350px;
+    height: 132px;
+    z-index: 18;     
+}
+
+
+.btn-lg {
+
+  
+    border-radius: 9px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    white-space: normal !important;
+    word-wrap: break-word;
+    width: 242px;
+    height: 54px;
+    z-index: 19;
+    font-size: 28px;
+    font-family: "Arial";
+    color: rgb(44, 183, 178);
+    line-height: 1.2;
+    text-align: center;
+    
+    left: 16%;
+    top: 64%;
+    z-index: 20;
+}
+
+
+@media screen and (max-width: 449px ) {
+  .btn-lg{
+top: 44%;
+left: 12%;
+}
+}
+
+.blue{
+
+  position: absolute;
+  left: 11%;
+  top: 21%;
+}
+
+
+.img3 {
+
+  
+    
+    position: absolute;
+    right: 40%;
+    top: 110px;
+    
+    z-index: 33;  
+}
+
+
+@media screen and (max-width: 1227px) {
+.img3 {
+
+left: 42%;
+top: 10px;
+margin: 0%;
+padding: 0%;
+
+
+
+}
+}
+
+.img5 {
+
+  
+    
+  position: absolute;
+  
+  top: 110px;
+  left: 40%;
+  z-index: 31;
+  }
+
+
+.onetext {
+  
+    font-size: 23px;
+    font-family: "Arial";
+    color: rgb(45, 45, 45);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 22%;
+    top: 290px;
+    width: 462px;
+    height: 297px;
+    z-index: 32;
+    margin-bottom: 130px; 
+}
+
+
+
+
+
+@media screen and (max-width: 780px ) {
+  #mediumtext {
+font-size:18px;
+left: 32%;
+top: 150px;
+width: 40%;
+}
+}
+
+@media screen and (max-width: 500px) {
+  #mediumtext {
+font-size:12px;
+left:15%;
+width: 80%;
+top: 150px;
+}
+}
+
+
+
+
+
+
+
+.secondtext {
+
+  font-size: 23px;
+    font-family: "Arial";
+    color: rgb(45, 45, 45);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    right: 22%;
+    top: 290px;
+    width: 462px;
+    height: 297px;
+    z-index: 32;
+    margin-bottom: 130px;
+}
+
+.arg2 {
+
+  background: url('../images/bigblue.png') no-repeat ;
+  width: 100%;
+  height: 574px;
+  border: 0px;
+  background-size:cover;
+  background-size:contain;
+  background-color: rgb(64, 181, 171);
+  position: absolute;
+  left: 0px;
+  top: 1380px;
+  
+  height: 574px;
+  z-index: 2;
+}
+
+
+
+
+
+.likeblue1{
+
+  position: absolute;
+  left: 0px;
+  top: 237px;
+}
+
+
+.likeblue2{
+
+  position: absolute;
+  right: 0%;
+  top: 237px;
+}
+
+.img7 {
+  position: absolute;
+  
+  top: 0px;
+  left: 20%;
+  z-index: 31;
+  margin: 20px;
+  }
+
+.img8 {
+    position: absolute;
+    
+    top: 0px;
+    left: 40%;
+    z-index: 31;
+    margin: 110px;
+    }
+
+
+.lasttext {
+      
+        font-size: 30px;
+        font-family: "Arial";
+        color: rgb(255, 255, 255);
+        line-height: 1.2;
+        text-align: center;
+        position: absolute;
+        left: 40%;
+        top: 325px;
+        width: 403px;
+        height: 172px;
+        z-index: 43;
+}
+
+#last {
+  bottom: 30%; 
+}
+
+@media screen and (max-width: 780px ) {
+  #last {
+font-size:25px;
+left: 40%;
+top: 20px;
+width: 40%;
+text-align: left;
+}
+}
+
+@media screen and (max-width: 400px) {
+  #last {
+font-size:20px;
+left:3%;
+width: 80%;
+top: 20px;
+text-align: left;
+}
+}
+
+
+
+
+@media screen and (max-width: 1020px ) {
+  #h{
+   visibility: hidden;
+}
+}
+
+
+@media screen and (max-width: 1020px ) {
+  #c{
+   visibility: hidden;
+}
+}
+
+@media screen and (max-width: 1020px ) {
+  #ce{
+   visibility: hidden;
+}
+}
+
+
+@media screen and (max-width: 1230px ) {
+  #hidden{
+   visibility: hidden;
+}
+}
+
+
+@media screen and (max-width: 1230px ) {
+  #content{
+    align-content: center
+}
+}
